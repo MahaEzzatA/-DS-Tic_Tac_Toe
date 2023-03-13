@@ -6,3 +6,7 @@ This is a simple Tic tac toe game develped using Python. the project is consist 
 Client - Server architecture is used for this project using TCP , and I used port 7228. messages were sent back and forth between the server and the clients, pickle module was used to convert the game object into a byte stream to be sent to the clients.
 
 ![Capture_1](https://user-images.githubusercontent.com/98700556/224834807-8acd881f-44b4-426e-8065-5a5d1c4140ab.PNG)
+
+multiple clients are joining the game
+
+![image](https://user-images.githubusercontent.com/98700556/224835798-15d0edbc-e6a8-4652-872d-75b1bc4bb642.png)
